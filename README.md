@@ -10,14 +10,6 @@ Um sistema simples de cadastro de pessoas em **Python**, com interface de termin
 - [Funcionalidades](#funcionalidades)  
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)  
 - [Como Rodar Localmente](#como-rodar-localmente)  
-  - Pré-requisitos  
-  - Passos  
-- [Estrutura do Projeto](#estrutura-do-projeto)  
-- [Validações e Regras de Negócio](#validações-e-regras-de-negócio)  
-- [Melhorias Futuras](#melhorias-futuras)  
-- [Contribuição](#contribuição)  
-- [Licença](#licença)  
-- [Autor](#autor)
 
 ---
 
