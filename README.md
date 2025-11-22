@@ -46,9 +46,8 @@ Esse projeto serve como um **mini sistema de cadastro** para pessoas, com comand
 
 ## Tecnologias Utilizadas
 
-- **Python 3.x** — Linguagem principal  
-- (Se usado) bibliotecas padrão do Python como `re` para regex na validação de e-mail  
-- (Opcional) armazenamento em memória (lista ou dicionários) — sem banco de dados externo  
+- **Python 3.13 — Linguagem principal   
+- armazenamento em memória (lista ou dicionários) — sem banco de dados externo  
 
 ---
 
